@@ -3,4 +3,3 @@ def welcome():
 
     print(f'Добро пожаловать,{x}')
 
-welcome()
